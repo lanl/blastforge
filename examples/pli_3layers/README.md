@@ -1,4 +1,4 @@
-# Design of Perturbed Liner Interface (PLI) using PPO
+# Design of Perturbed Layer Interface (PLI) using PPO
 
 ---
 
@@ -35,3 +35,4 @@ Installation of Blastforge.
 ```bash
 python main.py
 ```
+
